@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.75c8e9c7.css",
+    "main.js": "/static/js/main.dc7183f7.js",
+    "static/js/787.46e6b26d.chunk.js": "/static/js/787.46e6b26d.chunk.js",
+    "static/media/galaxy.webp": "/static/media/galaxy.ad1ee26202a7ecd715af.webp",
+    "static/media/luna.png": "/static/media/luna.3bd7f0257a7a21d1cdf1.png",
+    "index.html": "/index.html",
+    "main.75c8e9c7.css.map": "/static/css/main.75c8e9c7.css.map",
+    "main.dc7183f7.js.map": "/static/js/main.dc7183f7.js.map",
+    "787.46e6b26d.chunk.js.map": "/static/js/787.46e6b26d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.75c8e9c7.css",
+    "static/js/main.dc7183f7.js"
+  ]
+}
