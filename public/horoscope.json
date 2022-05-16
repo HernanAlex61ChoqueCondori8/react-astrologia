@@ -1,0 +1,280 @@
+{
+  "zodiac":[
+    {
+      "name":"Aries",
+      "startDate":"21/03",
+      "finishDate":"19/04",
+      "feautures": "Los Aries son, de todos los signos, los que más cómodos se sienten comenzando nuevos proyectos. Les gusta llevar la vara de mando y no tienen miedo de lanzarse hacia lo desconocido. Tienen un gran sentido de la aventura y les encantan los retos, sobretodo los que conllevan aprender cosas nuevas. En el amor, aunque no les cuesta encontrar un alma gemela, suelen necesitar un compañero que les aporte mucha estabilidad para equilibrar su personalidad impulsiva y aventurera.",
+      "element": "fuego",
+      "horoscope": [
+        {
+          "gender": "female",
+          "prediction":"Emociones fuertes de amistad, trabajo en equipo y creatividad. Terreno fértil para generar fuertes lazos afectivos.",
+          "health":"Con los íntimos, olvídate del protocolo y habla con toda sinceridad. Sé franco y directo, tus seres queridos le darán mayor valor.",
+          "love":"Hora de que te manejes con el corazón a pura intuición. Los mensajes de tu voz interior serán la guía más confiable en el amor.",
+          "money": "Todo te parecerá fácil y posible pero no te satisface el rendimiento de tus colaboradores. Baja tus expectativas en tu accionar diario."
+        },
+        {
+          "gender": "male",
+          "prediction":"Te otorgan buenas ideas en el ámbito de los negocios y te invitan a que cambies de estrategia. Escucha a tus familiares.",
+          "health":"Te resentirás de un dolor de espalda por un esfuerzo de deporte incontrolado. Evita tomar frío en horas de noche y procura dormir apropiadamente.",
+          "love":"Es un buen día para hacer planteos a largo plazo. Has construido una base sólida y puede aguantar el proyecto que decidas.",
+          "money": "Ten cuidado si manejas dinero ajeno y, sobre todo, en lo que respecta a préstamos porque pueden jugarte una mala pasada."
+        }
+      ]
+    },
+    {
+      "name":"Tauro",
+      "startDate":"20/04",
+      "finishDate":"21/05",
+      "feautures": "Los nacidos bajo este signo no se andan con chiquitas, lo suyo no son las aventuras y los romances breves: sólo se conformarán con su alma gemela. Eso sí, si traicionan la confianza de un Tauro difícilmente la volverán a recuperar y este se volverá receloso a la hora de conocer gente nueva. Los Tauro tienen una merecida reputación como los más cabezotas de todos los signos y suelen ser personas muy constantes y leales con las que se puede contar para casi todo. Les gusta todo aquello que consideren elegante y sofisticado y son muy perfeccionistas.",
+      "element": "tierra",
+      "horoscope": [
+        {
+          "gender": "female",
+          "prediction":"Se aclara un conflicto emocional que te preocupaba. Sentirás que te quitan un peso de tu corazón. Será un malestar pasajero.",
+          "health":"No se trata sólo de pelear por lo que quieres, sino también de cuidar lo que has ganado hasta hoy. Preserva aquello que lograste con esfuerzo.",
+          "love":"Llamados incesantes, acosos, el amor se tiñe de una gran carga erótica que quiere hechos concretos y no frases halagadoras.",
+          "money": "Una brillante perspectiva se presentará con respecto a una reunión de negocios. Te traerá buenos dividendos."
+        },
+        {
+          "gender": "male",
+          "prediction":"Hoy podrías ser víctima de engaños y mentiras. Además, es posible que carezcas de objetividad para identificarlos.",
+          "health":"Tómate tu tiempo para realizar algún ejercicio físico aún dentro de tu casa. Te ayudará aliviar el estrés.",
+          "love":"No dejes que el trabajo ocupe todo tu tiempo, o podrías dejar escapar un amor cargado de pasión y de momentos inolvidables.",
+          "money": "Cualquier compra que hagas ahora tendrá posibilidades de ser una inversión acertada. Aprovecha el momento."
+        }
+      ]
+    },
+    {
+      "name":"Géminis",
+      "startDate":"21/05",
+      "finishDate":"20/06",
+      "feautures": "Las relaciones pueden llegar a ser muy complicadas para un Géminis. Curiosamente, siendo personas que experimentan cambios constantemente no se sienten muy cómodos cuando sus compañeros evolucionan y toman perspectivas diferentes ante la vida. Los nacidos bajo este signo también tienden a buscar una relación muy estable y duradera pero a menudo sienten la tentación de vivir algo más casual. Los Géminis son los mejores comunicadores del Zodíaco y no tienen problemas para desenvolverse en el espectro social, aunque a veces los tilden de manipuladores. Saben cómo llevar una vida organizada y bien estructurada.",
+      "element": "aire",
+      "horoscope": [
+        {
+          "gender": "female",
+          "prediction":"Un golpe de suerte te aportará una ganancia extra. Inviértela rápidamente en nuevos proyectos para obtener beneficios a futuro.",
+          "health":"Por un lado quieres libertad y por otro sabes que la gente cuenta contigo. Tienes que comprometerte de alguna forma y evitar sentirte estresado.",
+          "love":"Cuida la manera en que expresas tus emociones. Preserva tu relación de pareja. Sé más tolerante y no te dejes llevar por celos.",
+          "money": "Hoy todo asunto tiene que ver con el dinero, las ganancias, actividades de negocios y valores. Te comunicas con energía."
+        },
+        {
+          "gender": "male",
+          "prediction":"Deberías deshacerte de algunos ideales que ya no te sirven para nada. Nunca es tarde para mejorar aspectos de tu personalidad.",
+          "health":"Deberás ser más prudente a la hora de dar tu punto de vista. Quizás tienes cosas importantes que expresar, pero se mueren bajo tus gritos.",
+          "love":"Si te sientes querido, tienes que ser más voluntarioso y demostrar que también eres capaz de colaborar con la relación.",
+          "money": "Los asuntos económicos mejorarán y tendrás cierto éxito laboral. No dudes ante la oportunidad de empezar algo nuevo."
+        }
+      ] 
+    },
+    {
+      "name":"Cancer",
+      "startDate":"21/06",
+      "finishDate":"22/07",
+      "feautures": "Los Cáncer tienen una gran tendencia a vivir en el pasado y esto se acentúa aún más cuando están solteros aunque, por el contrario, cuando están en una relación sana, se suelen concentrar más en el futuro próximo y se esfuerzan por cumplir todas sus metas. Los nacidos bajo este signo son amantes muy tiernos y personas muy sensibles a las que los golpes que da la vida pueden hacer mucho daño. Por este motivo, no es raro que un Cáncer esté siempre en guardia y a la defensiva, algo muy contraproducente que puede acabar alejándolo de sus seres más queridos. ",
+      "element": "agua",
+      "horoscope": [
+        {
+          "gender": "female",
+          "prediction":"Plantearás una relación en la cual demandarás hasta el hartazgo. Invierte tiempo en actividades que te demanden atención. Evita llegar al cansancio.",
+          "health":"No decaigas ante noticias negativas. La vida te dará mil motivos para seguir luchando, prioriza las cosas positivas y verás resultados.",
+          "love":"Sin fin de situaciones de acercamiento. Tu imaginación te ayudará a inventar nuevas formas de sorprender a tu pareja.",
+          "money": "Disfrutarás de momentos que no tenías planificados. Estate atento y no dejes pasar la oportunidad."
+        },
+        {
+          "gender": "male",
+          "prediction":"Superarás con facilidad las demoras burocráticas. Posibilidades de viajes o planes para realizarlos en un futuro, luego de la pandemia.",
+          "health":"Busca situaciones que te hagan sentir bien. No lleves las situaciones a extremos en cada paso que des o llegarás a un límite de hartazgo contigo mismo.",
+          "love":"Aparecerán nuevas e interesantes relaciones que te motivarán a concretar tus ideales. No te comprometerás con nadie.",
+          "money": "Elogios por tu trabajo profesional. Buena repercusión de los cambios introducidos en la administración de la empresa para la que trabajas."
+        }
+      ]
+    },
+    {
+      "name":"Leo",
+      "startDate":"23/07",
+      "finishDate":"22/08",
+      "feautures": "Se dice que los Leo son los más fáciles de reconocer a simple vista por tener un carácter muy marcado, y suele ser verdad. Cuando un Leo entra en la sala, todos los ojos se centran en él. Son líderes naturales y, la gran mayoría de ellos, disfrutan siendo el centro de atención. Quizás este sea el motivo por el que no aceptan críticas de cualquier tipo y se hacen los suecos cuando saben que han hecho algo mal. En el amor, los nacidos bajo este signo necesitan un compañero atento, que sea de pocas palabras y prefiera escuchar a ser escuchado. ",
+      "element": "fuego",
+      "horoscope": [
+        {
+          "gender": "male",
+          "prediction":"Puesta a prueba. Obstáculos mínimos no frenarán pero te incomodarán la marcha. Buen momento para cortar con dependencias negativas.",
+          "health":"Lo importante no es darse cuenta de los errores, ese sólo es el primer paso. Aprende de ellos para no volver a cometerlos.",
+          "love":"Es posible que conozcas o afirmes una relación afectiva. Dedícate el tiempo que necesites para fortalecer esos lazos.",
+          "money": "Las maniobras de último momento están desaconsejadas. No te apresures a realizar inversiones impensadas."
+        },
+        {
+          "gender": "male",
+          "prediction":"Equilibrio. Por el momento no tendrás batalla alguna que librar en ninguno de tus ámbitos. Tómate tiempo para brindar a tus seres queridos.",
+          "health":"Tu calidad de vida está en relación directa con tu salud. Invierte tiempo en descansar correctamente y cuídate de los excesos.",
+          "love":"Si buscas el amor envía las señales adecuadas para iniciar un romance. No descartes una invitación creativa para una charla.",
+          "money": "Nada relevante en vista. Todo seguirá como estaba. Si sobrevienen cambios, serán positivos y llegarán de la mano de un socio."
+        }
+      ]
+    },
+    {
+      "name":"Virgo",
+      "startDate":"23/08",
+      "finishDate":"22/09",
+      "feautures": "Una de las principales características de los nacidos bajo este signo es su forma lógica y estructurada de hacer las cosas. Son resolutivos y organizados por naturaleza y les encanta seguir una rutina diaria. No precisan de grandes parafernalias para ser felices, encuentran alegría en las pequeñas cosas y son personas más bien sencillas. A la hora de encontrar el amor, los Virgo tienen un enfoque práctico y pueden llegar a conformarse con alguien que no les apasiona si se sienten muy valorados por esa persona y consideran que cumple los requisitos mínimos para tener una relación estable.",
+      "element": "tierra",
+      "horoscope": [
+        {
+          "gender": "female",
+          "prediction":"Estarás genial como nunca, aunque te costará hacerte entender, como casi siempre. Luego de muchos rodeos, pasas a la acción.",
+          "health":"Abrir tu círculo de amistades te favorecerá. Te enseñarán a ver la vida desde distintos ángulos y a escuchar opiniones diferentes.",
+          "love":"El erotismo se despliega naturalmente disolviendo situaciones tensas. Plenitud, emociones profundas y sensibilidad.",
+          "money": "La desorganización se vuelve en tu contra. No cuestiones a nadie en voz alta, y menos que menos a tus jefes directos."
+        },
+        {
+          "gender": "male",
+          "prediction":"Buena jornada para hacer compras y decidir arreglos en el hogar. Evita confusiones y reúnete solo con gente muy cercana.",
+          "health":"Comprende la diferencia entre deseo y necesidad. Te ayudará a definir lo que es realmente importante y lo que es superficial.",
+          "love":"La seducción les da un sabor especial a las reconciliaciones. Tu facilidad para complementar deseos hace que todo sea perfecto.",
+          "money": "Vive el día como un desafío a vencer. Tu convicción y capacidad de comunicación te permitirán crecer dentro de la empresa."
+        }
+      ]
+    },
+    {
+      "name":"Libra",
+      "startDate":"23/09",
+      "finishDate":"22/10",
+      "feautures": "Una de las principales características de los nacidos bajo este signo es su forma lógica y estructurada de hacer las cosas. Son resolutivos y organizados por naturaleza y les encanta seguir una rutina diaria. No precisan de grandes parafernalias para ser felices, encuentran alegría en las pequeñas cosas y son personas más bien sencillas. A la hora de encontrar el amor, los Virgo tienen un enfoque práctico y pueden llegar a conformarse con alguien que no les apasiona si se sienten muy valorados por esa persona y consideran que cumple los requisitos mínimos para tener una relación estable.",
+      "element": "aire",
+      "horoscope": [
+        {
+          "gender": "female",
+          "prediction":"No pierdas la confianza en el futuro, tus sueños se realizarán de la mano de personas que están allí para apoyarte.",
+          "health":"No reniegues de tu vocación de servicio, nada de esconder tu alma noble. No te prives del bienestar de ayudar a otros desinteresadamente.",
+          "love":"Las responsabilidades te resultarán una pesada condena. Resiste, vale la pena intentarlo porque todo tendrá su recompensa.",
+          "money": "Tienes temor de que el dinero siga en escasez pese a promesas de tus superiores. Si haces tu trabajo con seguridad, cumplirán."
+        },
+        {
+          "gender": "male",
+          "prediction":"Anímate hoy mismo a apostar a la pareja y a los negocios. Te irá de maravilla. Tienes una estrella para ti hoy.",
+          "health":"Tu cuerpo está en forma. Tu alimentación ha de ser buena y tu ejercicio está basado en la vida diaria. No te excedas con los picantes.",
+          "love":"No intentes darle celos a tu pareja coqueteando con sus amigos, puedes llegar a tirarlo todo por la borda.",
+          "money": "Tu progreso material será lento pero seguro. No te aflijas demasiado, sólo debes saber esperar el momento adecuado."
+        }
+      ]
+    },
+    {
+      "name":"Escorpio",
+      "startDate":"23/10",
+      "finishDate":"21/11",
+      "feautures": "Los Aries son, de todos los signos, los que más cómodos se sienten comenzando nuevos proyectos. Les gusta llevar la vara de mando y no tienen miedo de lanzarse hacia lo desconocido. Tienen un gran sentido de la aventura y les encantan los retos, sobretodo los que conllevan aprender cosas nuevas. En el amor, aunque no les cuesta encontrar un alma gemela, suelen necesitar un compañero que les aporte mucha estabilidad para equilibrar su personalidad impulsiva y aventurera.",
+      "element": "agua",
+      "horoscope": [
+        {
+          "gender": "female",
+          "prediction":"Aparecen situaciones poco claras. Velas a la luz del día, dedícate a analizarlas con lentitud y diligencia. Sortearás las trampas.",
+          "health":"Hay pérdidas que te atormentan, con el tiempo se convertirán en ganancias. Nada es definitivo excepto la muerte. No desesperes.",
+          "love":"Si aún tienes interés en esa persona, deberías insistir para lograr un contacto. El amor a veces requiere cierta persistencia.",
+          "money": "Te enfrentarás a números inciertos que te tendrán inquieto. Algo confundido en tu búsqueda vocacional. Mejoras económicas."
+        },
+        {
+          "gender": "male",
+          "prediction":"Surgirán problemas menores en el trabajo. Podrás sortearlos satisfactoriamente y obtendrás un voto de confianza de tus superiores. Eficacia.",
+          "health":"Entregarse a la melancolía no ayudará a tus necesidades actuales. Busca encontrar razones para ver la vida con más optimismo.",
+          "love":"Los sentimientos y la atracción no saben sobre edades. Entrégate a esa relación que temes pero que no deja espacio en tu cabeza para otra cosa.",
+          "money": "Nuevos vínculos comerciales. Conseguirás ese empleo o crédito que esperabas para cambiar tu suerte. Hazte respetar."
+        }
+      ]
+    },
+    {
+      "name":"Sagitario",
+      "startDate":"22/11",
+      "finishDate":"21/12",
+      "feautures": "Los Aries son, de todos los signos, los que más cómodos se sienten comenzando nuevos proyectos. Les gusta llevar la vara de mando y no tienen miedo de lanzarse hacia lo desconocido. Tienen un gran sentido de la aventura y les encantan los retos, sobretodo los que conllevan aprender cosas nuevas. En el amor, aunque no les cuesta encontrar un alma gemela, suelen necesitar un compañero que les aporte mucha estabilidad para equilibrar su personalidad impulsiva y aventurera.",
+      "element": "fuego",
+      "horoscope": [
+        {
+          "gender": "female",
+          "prediction":"No permitas que la rutina te supere. Busca incentivos que te hagan valorar la vida. La diversión será de gran ayuda.",
+          "health":"Cada paso que des evalúalo, podrás evitar caer en una pileta vacía. Reflexiona cuidadosamente sobre los resultados de tus acciones.",
+          "love":"No intentes que todo sea racional y lógico en tu vida amorosa, pues muchas veces lo más interesante es lo que menos te esperas.",
+          "money": "Iniciarás proyectos con posibilidades de futuro. La forma en la que inviertas tus recursos tenderá a ser sensata."
+        },
+        {
+          "gender": "male",
+          "prediction":"Tus planes se irán dando paulatinamente. Intenta no generarte enemigos, con humildad y sencillez llegarás a todas partes.",
+          "health":"Toma las riendas de tu vida, haz lo que deseas hacer y no lo que quieran los demás. Reconoce que generas un poder a través de la palabra.",
+          "love":"Tu positivismo traerá grandes recompensas. Tu optimismo estimula el humor de tu pareja. Momentos de gran compañerismo.",
+          "money": "Serás entendido y aceptado sin mucho trámite. Tu economía mejorará y tus inversiones darán resultados positivos."
+        }
+      ]
+    },
+    {
+      "name":"Capricornio",
+      "startDate":"22/12",
+      "finishDate":"19/01",
+      "feautures": "Los Aries son, de todos los signos, los que más cómodos se sienten comenzando nuevos proyectos. Les gusta llevar la vara de mando y no tienen miedo de lanzarse hacia lo desconocido. Tienen un gran sentido de la aventura y les encantan los retos, sobretodo los que conllevan aprender cosas nuevas. En el amor, aunque no les cuesta encontrar un alma gemela, suelen necesitar un compañero que les aporte mucha estabilidad para equilibrar su personalidad impulsiva y aventurera.",
+      "element": "tierra",
+      "horoscope": [
+        {
+          "gender": "female",
+          "prediction":"Un acontecimiento agradable te pondrá feliz y te hará afrontar esta fase de manera positiva. Todo se soluciona en el corto plazo.",
+          "health":"Necesitas disciplinarte. Cuida de tu salud, que es un bien fundamental. No caigas en falsas dietas, aliméntate sanamente y verás buenos resultados.",
+          "love":"Los cambios de humor tan repentinos hacen que tu pareja se sienta un poco desorientada. El diálogo será fundamental.",
+          "money": "Gracias al trabajo podrían darse nuevos y mejores ingresos económicos. Cuídate, un superior te está mirando."
+        },
+        {
+          "gender": "male",
+          "prediction":"La magia vuelve a tu vida con gran intensidad. atrás quedan las confusiones y miedos. Se abre un nuevo horizonte de posibilidades.",
+          "health":"Aprende a darte más importancia y los demás cambiarán su actitud. A la hora de decidir ten en cuenta tus emociones y tu intuición.",
+          "love":"Romántico e inspirado. Necesitarás compartir cada momento con mucha pasión, haciendo inolvidable este día",
+          "money": "Sorprenderás a tus superiores con tus ideas renovadoras e interesantes, generando una posibilidad de ascenso en tu carrera."
+        }
+      ]
+    },
+    {
+      "name":"Acuario",
+      "startDate":"20/01",
+      "finishDate":"18/02",
+      "feautures": "Los Acuario son los más populares del patio y tienen un don de gentes natural que les hace conquistar cualquier evento social. Saben cómo entablar conversación y dar a la gente lo que quiere, y esto les hace sentir muy poderosos pero, cuando se encuentran en situaciones íntimas con una sola persona, tienden a sentirse inseguros y tomárselo con calma. Si un Acuario siente que su pareja necesita más de lo que él le ofrece, en la mayoría de los casos optará por acabar con esa relación antes de plantearse hacer un esfuerzo extra. ",
+      "element": "aire",
+      "horoscope": [
+        {
+          "gender": "female",
+          "prediction":"Estarás en sintonía mental y afectiva con la gente de tu entorno, tu carisma y buen humor te harán popular con tus amistades.",
+          "health":"Tómate un respiro antes de sumergirte por completo en la rutina. Las ocupaciones diarias te están estresando, rompe con la rutina.",
+          "love":"Si tu relación es rutinaria y sin estímulos, busca alternativas. Tu imaginación está elevada y podrás encontrar una solución.",
+          "money": "Si delegas una tarea delicada toma las precauciones del caso, en especial si tienes gente atolondrada en el entorno."
+        },
+        {
+          "gender": "male",
+          "prediction":"Conocerás a gente que te será de mucha ayuda en el futuro, y además se convertirán en excelentes amigos. Es un buen día.",
+          "health":"Tu estado de salud es óptimo. Es importante que tengas la capacidad de separar los problemas y analizarlos uno a uno. Continúa valorando tu paz.",
+          "love":"Te sorprenderás cuando veas cómo tu pareja intenta revertir una situación que los aqueja. Déjala actuar con libertad.",
+          "money": "Cuidado con la toma de decisiones hoy, puedes equivocarte. Tus proyectos podrían tener muchas complicaciones."
+        }
+      ]
+    },
+    {
+      "name":"Piscis",
+      "startDate":"19/02",
+      "finishDate":"20/03",
+      "feautures": "Los Piscis son idealistas y soñadores de nacimiento. Dados de lleno al mundo de la imaginación, sus deseos suelen ser totalmente imposibles y esto les puede llegar a causar una gran frustración con el mundo real. Pueden llegar a ser un tanto hedonistas y les gusta disfrutar de la vida al máximo sin pararse mucho a pensar. La gran mayoría de los Piscis son personas muy carismáticas con una gran determinación. Son muy apasionados en el amor, pero no siempre se entregan a una relación por las razones correctas y no es raro que establezcan una sólo para entretenerse, lo que siempre acaba en malentendidos y corazones rotos.",
+      "element": "agua",
+      "horoscope": [
+        {
+          "gender": "female",
+          "prediction":"Buscarás conocer gente a través de internet. Te incentivarán los contactos por chat y la idea de poder charlar de cosas que no lo haces normalmente.",
+          "health":"No pienses tanto en tus compromisos familiares, debes dar prioridad a tu vida privada. Explota tu sensualidad, haz que cada encuentro sea placentero.",
+          "love":"Necesitarás independencia. Intentarás perseguir tus objetivos personales, y dejarás a tu pareja mayor libertad para sus aficiones.",
+          "money": "Debes tener cuidado cuando hablas con otras personas sobre tus asuntos económicos. Podrían robarte ideas muy lucrativas."
+        },
+        {
+          "gender": "male",
+          "prediction":"Invencible. Envidiable fuerza física y deseos de cortar con las ataduras. El secreto está en superar pensamientos negativos.",
+          "health":"Basta de falsas modestias. Valórate a ti mismo y habla de tus cualidades. Las personas admiran a quien se sabe valioso.",
+          "love":"Estás en un error si crees que tu relación de pareja te permitirá seguir siendo libre. Preserva tu independencia, pon límites.",
+          "money": "El dinero no llega del cielo, pero si estás atento durante estos días te surgirán nuevas ideas. No las desaproveches."
+        }
+      ]
+    }
+  ]
+}
