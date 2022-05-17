@@ -12,8 +12,7 @@ html{
 
 .App {
   text-align: center;
-  background-image: url("./images/galaxy.webp");
-  min-height: 100vh;
+  background-image: linear-gradient(to left bottom, #3d2d69, #4d306d, #5c3270, #6b3473, #793775, #913c76, #a84375, #bc4c73, #d9606c, #ee7a63, #fb995c, #ffba5a);
 }
 
 /* width */
@@ -35,85 +34,4 @@ html{
 /* Handle on hover */
 ::-webkit-scrollbar-thumb:hover {
   background: rgb(54, 57, 104);
-}
-
-.form-user__title{
-  font-size: 2rem;
-  font-weight: 500;
-  color: #fff;
-  margin-bottom: 2rem;
-}
-
-.form-data{
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  flex-direction: column;
-
-  padding-bottom: 2rem;
-  color: #fff;
-}
-.form-data__label{
-  font-size: 1.4rem;
-  margin: 0.5rem;
-}
-.form-data__input{
-  padding:0.4rem;
-  border-radius: 0.5rem;
-  font-size: 1.4rem;
-
-  border: 0.2rem solid rgb(61, 45, 105);
-  outline: none;
-}
-.form-user__request{
-  background-color: rgb(61, 45, 105);
-  margin-top: 2rem;
-
-  color: #fff;
-  font-size: 1.8rem;
-  padding: 1.5rem 4rem;
-
-  border: none;
-  outline: none;
-  
-  border-radius: 1rem;
-}
-
-.horoscope{
-  padding: 4rem 0;
-}
-
-.zodiac{
-  max-width: 90vw;
-  background-color: rgba(61, 45, 105, 0.9);
-
-  margin: auto;
-  padding: 2rem 0;
-
-  color: #fff;
-  
-  border-radius: 1rem;
-}
-.zodiac__title{
-  font-size: 1.6rem;
-}
-.zodiac__text{
-  font-size: 2rem;
-  margin-bottom: 2rem;
-}
-.zodiac__img{
-  width: 6rem;
-  height: 6rem;
-}
-.zodiac__more{
-  background-color: transparent;
-  position: relative;
-  height: 2rem;
-
-  outline: none;
-  border: none;
-}
-.zodiac__more-img{
-  width: 100%;
-  height: 100%;
 }

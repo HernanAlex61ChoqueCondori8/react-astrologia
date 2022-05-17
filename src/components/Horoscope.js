@@ -1,3 +1,4 @@
+import './Horoscope.css';
 import arrow from '.././images/down-arrow.png';
 import React from 'react';
 
@@ -19,7 +20,7 @@ function Zodiac(props){
 
   return (
     <div className="zodiac">
-      <h3 className="zodiac__title">Signo</h3>
+      <h3 className="zodiac__title"> Hola {props.nameState.valueNameZodiac}, tu signo es</h3>
       <img className="zodiac__img" alt="zodiac" src={props.imgState.valueImgZodiac}></img>
       <p className="zodiac__text">{props.textState.valueTextZodiac}</p>
       <div className="zodiac__show">
@@ -37,8 +38,10 @@ function Zodiac(props){
 function Prediction(){
   return (
     <div className="prediction">
-      <h3 className="prediction__title">Tu prediccion de hoy</h3>
-      <p className="prediction__text"></p>
+      <h3 className="prediction__title">Prediccion</h3>
+      <div className="prediction__today">
+
+      </div>
     </div>
   );
 }
@@ -49,6 +52,7 @@ function Horoscope(props){
       <Zodiac 
         textState={props.textZodiacState}
         imgState={props.imgZodiacState}
+        nameState={props.nameZodiacState}
         imgArrow={arrow}>  
       </Zodiac>
       <Prediction></Prediction>
