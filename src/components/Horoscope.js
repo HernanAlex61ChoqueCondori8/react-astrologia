@@ -35,18 +35,46 @@ function Zodiac(props){
   );
 }
 
-function Prediction(){
+function Prediction(props){
+  const changePrediction = () => {
+    fetch("./horoscope.json")
+    .then(res => res.json())
+    .then(data => {
+      const dataGender = document.querySelector("#user-gender");
+      const signZodiac = props.sign.valueTextZodiac;
+      const dataPrediction = data.zodiac.find(sign => {
+        return sign.name.toLowerCase() === signZodiac.toLowerCase() ;
+      });
+      
+      if(parseInt(dataGender.value) === -1){
+        alert("Rellenar formulario");
+      }
+      else{
+        props.prediction.setPrediction(dataPrediction.horoscope[dataGender.value].prediction);
+
+        const predictionContent = document.querySelector(".prediction__today");
+        predictionContent.classList.toggle("prediction__today--show");
+      }
+    });
+  }
   return (
     <div className="prediction">
-      <h3 className="prediction__title">Prediccion</h3>
+      <button 
+      className="prediction__title"
+      onClick={()=>( changePrediction() )}>
+        Prediccion
+        <div className="prediction__line"></div>
+      </button>
       <div className="prediction__today">
-
+        <p className="prediction__text">{props.prediction.valuePrediction}</p>
       </div>
     </div>
   );
 }
 
 function Horoscope(props){
+  const [valuePrediction, setPrediction] = React.useState('???');
+
   return (
     <div className="horoscope">
       <Zodiac 
@@ -55,7 +83,9 @@ function Horoscope(props){
         nameState={props.nameZodiacState}
         imgArrow={arrow}>  
       </Zodiac>
-      <Prediction></Prediction>
+      <Prediction
+        sign={props.textZodiacState}
+        prediction={{valuePrediction, setPrediction}}></Prediction>
     </div>
   );
 }

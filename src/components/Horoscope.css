@@ -44,12 +44,62 @@
 }
 
 .prediction{
-  background-color: rgba(51, 128, 244, 0.9);
+  background-color: hsla(345, 53%, 56%, 0.8);
 
   max-width: 80vw;
 
+  text-align: center;
+
   color: #fff;
   margin: 2rem auto;
+  padding: 1rem 0;
   
   border-radius: 1rem;
+}
+.prediction__title{
+  position: relative;
+  background-color: transparent;
+
+  display: inline-block;
+
+  color: #fff;
+  font-size: 1.6rem;
+  font-weight: 400;
+
+  outline:none;
+  border: none;
+
+  transition-duration: 0.5s;
+}
+.prediction__title:hover{
+  cursor: pointer;
+  font-weight: 600;
+  transform: scale(1.1);
+}
+.prediction__title:hover .prediction__line{
+  background-color: rgba(61, 45, 105, 0.9);
+  transform: scale(1.1);
+}
+.prediction__line{
+  background-color:#fff;
+  width: 50%;
+  height: 0.2rem;
+  margin: auto;
+  margin-top: 0.2rem;
+
+  border-radius: 2rem;
+  
+  transition-duration: 0.5s;
+}
+
+.prediction__today{
+  max-height: 0;
+  overflow: hidden;
+  padding: 0;
+
+  transition-duration: 0.5s;
+}
+.prediction__today--show{
+  padding: 2rem;
+  max-height: 100rem;
 }

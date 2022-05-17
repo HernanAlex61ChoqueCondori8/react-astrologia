@@ -8,9 +8,10 @@ function FormData(){
       <label className="form-data__label">Edad</label>
         <input type="number" className="form-data__input"></input>
       <label className="form-data__label">Genero</label>
-        <select name="genero" className="form-data__input">
-          <option value="hombre">Hombre</option>
-          <option value="mujer">Mujer</option>
+        <select id="user-gender" name="genero" className="form-data__input">
+          <option value="-1">-</option>
+          <option value="0">Mujer</option>
+          <option value="1">Hombre</option>
         </select>
       <label className="form-data__label">Fecha de nacimiento</label> 
         <input id="user-date" type="date" className="form-data__input"></input>
